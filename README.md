@@ -3,14 +3,14 @@
 ## Overview
 This project is an advanced, fully interactive React calendar built to transcend basic date-picking requirements. It features a modern, premium "wall calendar" aesthetic with smooth page-flipping animations, dynamic color themes based on the month, persistent note-taking functionality, and detailed holiday markers.
 
-## Basic Feature Requirements Satisfied
+## Basic Feature Requirements 
 - Built using **React.js** (via Vite).
 - Styled heavily utilizing **Tailwind CSS v4**.
 - Employs an elegant base **Blue** color palette.
 - Fully responsive design, adapting perfectly from vertical mobile layouts to split-pane wide desktop screens.
 - Core logic to easily navigate between months.
 
-## Extra Features & "Wow Factor" 🚀
+## Extra Features 🚀
 To make this project truly stand out among candidates, several advanced, premium features were engineered into the application:
 
 1. **Dynamic Theming Engine:** Rather than sticking to just blue, the entire user interface (buttons, outlines, text colors, and selection highlights) dynamically transitions its primary color palette based on the current month (e.g., Ocean Blue for January, Pink for February, Amber for April).
