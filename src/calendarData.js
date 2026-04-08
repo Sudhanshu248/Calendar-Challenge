@@ -1,17 +1,17 @@
 // Arrays of specific Unsplash image URLs mapping 0-11 to Jan-Dec
 export const MONTH_IMAGES = [
-  "/public/Jan.png", // Jan
-  "/public/Feb.png", // Feb
-  "/public/March.png", // Mar
-  "/public/April.png", // Apr (Spring/Flowers)
-  "/public/May.png", // May
-  "/public/June.png", // Jun
-  "/public/July.png", // Jul
-  "/public/August.png", // Aug (Beach/Summer)
-  "/public/Sept.png", // Sep
-  "/public/Oct.png", // Oct (Autumn/Leaves)
-  "/public/Nov.png", // Nov
-  "/public/Dec.png"  // Dec (Snow/Winter)
+  "/Jan.png", // Jan
+  "/Feb.png", // Feb
+  "/March.png", // Mar
+  "/April.png", // Apr (Spring/Flowers)
+  "/May.png", // May
+  "/June.png", // Jun
+  "/July.png", // Jul
+  "/August.png", // Aug (Beach/Summer)
+  "/Sept.png", // Sep
+  "/Oct.png", // Oct (Autumn/Leaves)
+  "/Nov.png", // Nov
+  "/Dec.png"  // Dec (Snow/Winter)
 ];
 
 // Distinct color palettes mapping 0-11 for dynamic Tailwind variable injection
