@@ -1,17 +1,17 @@
 // Arrays of specific Unsplash image URLs mapping 0-11 to Jan-Dec
 export const MONTH_IMAGES = [
-  "https://images.unsplash.com/photo-1522163182402-834f871fd851?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80", // Jan
-  "https://images.unsplash.com/photo-1454496522488-7a8e488e8606?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80", // Feb
-  "https://images.unsplash.com/photo-1516655855035-d5215bcb5604?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80", // Mar
-  "https://images.unsplash.com/photo-1490750967868-88aa4486c946?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80", // Apr (Spring/Flowers)
-  "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80", // May
-  "https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80", // Jun
-  "https://images.unsplash.com/photo-1414016642750-7fdd78dc33d9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80", // Jul
-  "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80", // Aug (Beach/Summer)
-  "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80", // Sep
-  "https://images.unsplash.com/photo-1476231682828-37e571bc172f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80", // Oct (Autumn/Leaves)
-  "https://images.unsplash.com/photo-1477414348463-c0eb7f1359b6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80", // Nov
-  "https://images.unsplash.com/photo-1544273677-c433136021d4?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80"  // Dec (Snow/Winter)
+  "/public/Jan.png", // Jan
+  "/public/Feb.png", // Feb
+  "/public/March.png", // Mar
+  "/public/April.png", // Apr (Spring/Flowers)
+  "/public/May.png", // May
+  "/public/June.png", // Jun
+  "/public/July.png", // Jul
+  "/public/August.png", // Aug (Beach/Summer)
+  "/public/Sept.png", // Sep
+  "/public/Oct.png", // Oct (Autumn/Leaves)
+  "/public/Nov.png", // Nov
+  "/public/Dec.png"  // Dec (Snow/Winter)
 ];
 
 // Distinct color palettes mapping 0-11 for dynamic Tailwind variable injection
